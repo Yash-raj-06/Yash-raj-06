@@ -6,7 +6,8 @@
 - I have basic knowledge about C++ and SQL.
 - 📫 How to reach me mail: ryash322006@gmail.com
 - Imporving my skill through nxtwave.
-- 
+- I am a Btech Student started at academic year 2024
+- Course : Computer Science and Buisness systems
 
 <!---
 Yash-raj-06/Yash-raj-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
